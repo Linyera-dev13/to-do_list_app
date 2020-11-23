@@ -2,6 +2,11 @@
 
 A to-do list made with Quasar
 
+## Install Node.js
+
+https://nodejs.org/es/
+
+
 ## Install the dependencies
 ```bash
 npm install
